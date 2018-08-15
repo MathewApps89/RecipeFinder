@@ -1,0 +1,8 @@
+MainPackage=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\ARM\Release\RecipeFinder.UWP_1.1.10.0_ARM.appx
+SymbolPackage=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\AppPackages\RecipeFinder.UWP_1.1.10.0_Test\RecipeFinder.UWP_1.1.10.0_ARM.appxsym
+ResourcePack=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\ARM\Release\RecipeFinder.UWP_1.1.10.0_scale-100.appx
+ResourcePack=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\ARM\Release\RecipeFinder.UWP_1.1.10.0_scale-125.appx
+ResourcePack=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\ARM\Release\RecipeFinder.UWP_1.1.10.0_scale-140.appx
+ResourcePack=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\ARM\Release\RecipeFinder.UWP_1.1.10.0_scale-150.appx
+ResourcePack=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\ARM\Release\RecipeFinder.UWP_1.1.10.0_scale-180.appx
+ResourcePack=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\ARM\Release\RecipeFinder.UWP_1.1.10.0_scale-400.appx

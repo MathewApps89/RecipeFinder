@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RecipeFinder.View.AddIngredientsPage"
+             xmlns:mainViewModel="clr-namespace:RecipeFinder.ViewModel"
+             xmlns:local="clr-namespace:RecipeFinder.Services"
+             NavigationPage.HasNavigationBar="False" >
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="CustomButtonAddAndClearIngredients" TargetType="Button">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="BorderColor" Value="MintCream"/>
+                <Setter Property="TextColor" Value="MintCream"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="BorderRadius" Value="60"/>
+            </Style>
+
+            <Style x:Key="CustomButtonDeleteSpecificIngredient" TargetType="Button">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="BorderColor" Value="MintCream"/>
+                <Setter Property="TextColor" Value="Red"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="BorderRadius" Value="60"/>
+            </Style>
+
+            <Style x:Key="CustomButtonSubmitButton" TargetType="Button">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="BorderColor" Value="MintCream"/>
+                <Setter Property="TextColor" Value="MintCream"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="HeightRequest" Value="50"/>
+                <Setter Property="Grid.Row" Value="6"/>
+                <Setter Property="BorderRadius" Value="60"/>
+                <Setter Property="IsVisible" Value="{Binding ToggleSearchButtonVisable}"/>
+                <Setter Property="IsEnabled" Value="{Binding ToggleSearchButtonEnabled}"/>
+            </Style>
+
+            <Style x:Key="CustomLabelCurrentIngredients" TargetType="Label">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="MintCream"/>
+                <Setter Property="VerticalOptions" Value="Start"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="Grid.Row" Value="4"/>
+                <Setter Property="IsVisible" Value="{Binding ToggleCurrentIngredientLabel}"/>
+            </Style>
+
+            <Style x:Key="CustomLabelListview" TargetType="Label">
+                <Setter Property="FontAttributes" Value="Italic"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="TextColor" Value="MintCream"/>
+                <Setter Property="FontSize" Value="Large"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Start"/>
+            </Style>
+
+            <Style x:Key="CustomLabelEmptyCuttingBoard" TargetType="Label">
+                <Setter Property="TextColor" Value="MintCream"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="Large"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Start"/>
+                <Setter Property="WidthRequest" Value="270"/>
+                <Setter Property="LineBreakMode" Value="WordWrap"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="VerticalTextAlignment" Value="Center"/>
+                <Setter Property="Grid.Column" Value="0"/>
+                <Setter Property="Grid.Row" Value="5"/>
+                <Setter Property="IsVisible" Value="{Binding ToggleHelperLabel}"/>
+            </Style>
+
+            <Style x:Key="CustomPicker" TargetType="Picker">
+                <Setter Property="TextColor" Value="MintCream"/>
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="MinimumWidthRequest" Value="200"/>
+                <Setter Property="WidthRequest" Value="180"/>
+                <Setter Property="Opacity" Value="30"/>
+            </Style>
+
+            <Style x:Key="CustomEntryBox" TargetType="Entry">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="PlaceholderColor" Value="LightGray"/>
+                <Setter Property="TextColor" Value="MintCream"/>
+                <Setter Property="VerticalOptions" Value="Start"/>
+                <Setter Property="HorizontalOptions" Value="End"/>
+                <Setter Property="HorizontalTextAlignment" Value="Center"/>
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="Margin" Value="5"/>
+            </Style>
+
+            <Style x:Key="CustomLogo" TargetType="Image">
+                <Setter Property="Grid.Column" Value="0"/>
+                <Setter Property="Grid.Row" Value="5"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="HeightRequest" Value="230"/>
+                <Setter Property="WidthRequest" Value="230"/>
+                <Setter Property="IsVisible" Value="{Binding ToggleLogo}"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.BindingContext>
+        <mainViewModel:MainViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <RelativeLayout>
+
+            <Image Source="EmptyBoardSmall.jpeg"
+               RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+               RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}"
+               Aspect="Fill"/>
+            
+            <Grid RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+                  RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+
+                <local:RoundedEntry
+                    x:Name="IngredientsEntryBox"
+                    HorizontalOptions="Center"
+                    Grid.Row="0"
+                    Placeholder="Can't find an ingredient? Enter it here"                      
+                    Completed="IngredientsEntryBox_Completed"
+                    Style="{StaticResource CustomEntryBox}"  
+                />
+
+                <Grid Grid.Row="2" Grid.Column="0" HorizontalOptions="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <local:CustomPicker x:Name="MeatPicker"    
+                            Grid.Column="0" Grid.Row="0" HorizontalOptions="StartAndExpand" Style="{StaticResource CustomPicker}" ItemsSource="{Binding Meats}" SelectedIndex="{Binding MeatSelectedIndex, Mode=TwoWay}"/>
+                    <local:CustomPicker x:Name="SeafoodPicker" 
+                            Grid.Column="1" Grid.Row="0" HorizontalOptions="EndAndExpand" Style="{StaticResource CustomPicker}" 
+                             ItemsSource="{Binding Seafood}" SelectedIndex="{Binding SeafoodSelectedIndex, Mode=TwoWay}"/>
+                    <local:CustomPicker x:Name="PoultryPicker" 
+                            Grid.Column="0" Grid.Row="1" HorizontalOptions="StartAndExpand" Style="{StaticResource CustomPicker}" 
+                            ItemsSource="{Binding Poultry}" SelectedIndex="{Binding PoultrySelectedIndex, Mode=TwoWay}"/>
+                    <local:CustomPicker x:Name="ProducePicker" 
+                            Grid.Column="1" Grid.Row="1" HorizontalOptions="EndAndExpand" Style="{StaticResource CustomPicker}" 
+                            ItemsSource="{Binding Produce}" SelectedIndex="{Binding ProduceSelectedIndex, Mode=TwoWay}"/>
+                    <local:CustomPicker x:Name="RiceAndGrainsPicker"   
+                            Grid.Column="0"  Grid.Row="2" HorizontalOptions="StartAndExpand" Style="{StaticResource CustomPicker}"
+                            ItemsSource="{Binding RiceAndGrains}" SelectedIndex="{Binding RiceAndGrainsSelectedIndex, Mode=TwoWay}"/>
+                    <local:CustomPicker x:Name="BeansAndLegumesPicker" 
+                            Grid.Column="1" Grid.Row="2" HorizontalOptions="EndAndExpand" Style="{StaticResource CustomPicker}" 
+                            ItemsSource="{Binding BeansAndLegumes}" SelectedIndex="{Binding BeansAndLegumesSelectedIndex, Mode=TwoWay}"/>
+                </Grid>
+
+                <Grid Grid.Row="3" Grid.Column="0" HorizontalOptions="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <local:RoundedButton
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Text="Clear Ingredients"                        
+                    Command="{Binding ClearAllIngredients}"
+                    IsVisible="{Binding ToggleClearAllButton}"
+                    Style="{StaticResource CustomButtonAddAndClearIngredients}"               
+                    />
+                    
+                    <ActivityIndicator IsVisible="{Binding IsDoneLoading}" IsRunning="{Binding IsDoneLoading}" IsEnabled="{Binding IsDoneLoading}" HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="0" Grid.Row="0" Color="MintCream" />
+                </Grid>
+
+                <Label 
+                    x:Name="CurrentIngredientLabel"
+                    Text="Your current ingredients are."
+                    Style="{StaticResource CustomLabelCurrentIngredients}"
+                    />
+                <Label x:Name="EmptyCuttingBoard" 
+                    Text="Your cutting board is empty."                      
+                    Style="{StaticResource CustomLabelEmptyCuttingBoard}"
+                    />
+                <!--<Image Source="logoRed1_375by375.png" Style="{StaticResource CustomLogo}"/>-->
+                
+                <ListView HorizontalOptions="Center"
+                      Grid.Column="0"
+                      Grid.Row="5"
+                      VerticalOptions="Start"
+                      HasUnevenRows="True"
+                      x:Name="IngredientsListViewList"
+                      >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout>
+                                    <Label x:Name="IngredientsLabel" Text="{Binding IngredientsEntered}" Style="{StaticResource CustomLabelListview}" />
+                                    <local:RoundedButton
+                                    Text="Remove"
+                                    Clicked="Remove_Clicked"     
+                                    Style="{StaticResource CustomButtonDeleteSpecificIngredient}"
+                                    />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <local:RoundedButton
+                x:Name="SelectedIngredientsClicked"
+                Text="Search for recipe"     
+                Command="{Binding SearchForRecipeButtonClicked}"
+                Style="{StaticResource CustomButtonSubmitButton}"                       
+                />
+            </Grid>
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

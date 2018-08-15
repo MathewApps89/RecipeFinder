@@ -1,0 +1,1 @@
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\RecipeFinder.UWP.csproj;x86

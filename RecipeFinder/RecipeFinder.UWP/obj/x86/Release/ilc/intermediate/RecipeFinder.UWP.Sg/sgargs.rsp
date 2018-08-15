@@ -1,0 +1,12 @@
+/ref:"D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Mathew\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\x86\ilc\lib\Private\\"
+/ref:"D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\in"
+/ref:"D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\csc"
+/out:"D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\intermediate\RecipeFinder.UWP.Sg"
+"@D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\ilc\intermediate\RecipeFinder.UWP.Sg\ComputedSerializationInput.txt"

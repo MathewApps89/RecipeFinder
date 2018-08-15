@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-4OOCRRC</Machine>
+    <WindowsUser>Mathew</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>723560a9-d800-48ba-941f-29f7a02b17d6</PackageIdentityName>
+    <PackageIdentityPublisher>CN=19717E1F-832B-4702-812F-F189B772FC6D</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>6EA767676167ABE0BC0736A442324F2945A27D54355110CDEA161D959F5A1CFF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>45298TheAppMan.EasyPzRecipes_1.1.10.0_x86__ac83dhefvdke8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>45298TheAppMan.EasyPzRecipes_ac83dhefvdke8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>45298TheAppMan.EasyPzRecipes</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=19717E1F-832B-4702-812F-F189B772FC6D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.10.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-15T20:57:04.499</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-08-15T20:55:54.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2018-06-21T22:38:00.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <Modified>2018-06-21T22:38:01.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <Modified>2018-06-21T22:38:01.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\CuttingBoard.jpg">
+      <PackagePath>Assets\CuttingBoard.jpg</PackagePath>
+      <Modified>2018-06-21T22:23:30.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\EmptyBoardSmall.jpeg">
+      <PackagePath>Assets\EmptyBoardSmall.jpeg</PackagePath>
+      <Modified>2018-06-21T22:23:30.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\foodBackground.jpeg">
+      <PackagePath>Assets\foodBackground.jpeg</PackagePath>
+      <Modified>2018-06-21T22:23:30.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\foodBackgroundLogoRed2480x1200.scale-400.jpg">
+      <PackagePath>Assets\foodBackgroundLogoRed2480x1200.scale-400.jpg</PackagePath>
+      <Modified>2018-06-21T22:27:12.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-100.png">
+      <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-125.png">
+      <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-150.png">
+      <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-400.png">
+      <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\logo.scale-100.png">
+      <PackagePath>Assets\logo.scale-100.png</PackagePath>
+      <Modified>2018-06-21T22:37:46.819</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\logo.scale-140.png">
+      <PackagePath>Assets\logo.scale-140.png</PackagePath>
+      <Modified>2018-06-21T22:37:47.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\logo.scale-180.png">
+      <PackagePath>Assets\logo.scale-180.png</PackagePath>
+      <Modified>2018-06-21T22:37:48.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\logo.scale-80.png">
+      <PackagePath>Assets\logo.scale-80.png</PackagePath>
+      <Modified>2018-06-21T22:37:46.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\promo1.png">
+      <PackagePath>Assets\promo1.png</PackagePath>
+      <Modified>2018-06-21T22:38:03.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\promo2.png">
+      <PackagePath>Assets\promo2.png</PackagePath>
+      <Modified>2018-06-21T22:38:03.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\promo3.png">
+      <PackagePath>Assets\promo3.png</PackagePath>
+      <Modified>2018-06-21T22:38:03.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\promo4.png">
+      <PackagePath>Assets\promo4.png</PackagePath>
+      <Modified>2018-06-21T22:38:04.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\secondary-square.png">
+      <PackagePath>Assets\secondary-square.png</PackagePath>
+      <Modified>2018-06-21T22:38:02.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\secondary-wide.png">
+      <PackagePath>Assets\secondary-wide.png</PackagePath>
+      <Modified>2018-06-21T22:38:03.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\smalllogo.scale-100.png">
+      <PackagePath>Assets\smalllogo.scale-100.png</PackagePath>
+      <Modified>2018-06-21T22:37:55.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\smalllogo.scale-140.png">
+      <PackagePath>Assets\smalllogo.scale-140.png</PackagePath>
+      <Modified>2018-06-21T22:37:55.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\smalllogo.scale-180.png">
+      <PackagePath>Assets\smalllogo.scale-180.png</PackagePath>
+      <Modified>2018-06-21T22:37:59.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\smalllogo.scale-80.png">
+      <PackagePath>Assets\smalllogo.scale-80.png</PackagePath>
+      <Modified>2018-06-21T22:37:53.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:30:25.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:30:25.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:30:25.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:30:25.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:30:25.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <Modified>2018-06-21T22:37:51.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <Modified>2018-06-21T22:37:52.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <Modified>2018-06-21T22:37:53.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <Modified>2018-06-21T22:37:50.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:40.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:40.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:40.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:40.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-07-03T13:31:41.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2018-06-21T22:37:42.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <Modified>2018-06-21T22:37:43.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <Modified>2018-06-21T22:37:43.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <Modified>2018-06-21T22:37:42.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\storelogo.scale-100.png">
+      <PackagePath>Assets\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-21T22:37:59.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\storelogo.scale-140.png">
+      <PackagePath>Assets\storelogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-21T22:38:00.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\storelogo.scale-180.png">
+      <PackagePath>Assets\storelogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-06-21T22:38:00.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-15T15:28:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\widelogo.scale-100.png">
+      <PackagePath>Assets\widelogo.scale-100.png</PackagePath>
+      <Modified>2018-06-21T22:37:49.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\widelogo.scale-140.png">
+      <PackagePath>Assets\widelogo.scale-140.png</PackagePath>
+      <Modified>2018-06-21T22:37:50.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\widelogo.scale-180.png">
+      <PackagePath>Assets\widelogo.scale-180.png</PackagePath>
+      <Modified>2018-06-21T22:37:50.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\Assets\widelogo.scale-80.png">
+      <PackagePath>Assets\widelogo.scale-80.png</PackagePath>
+      <Modified>2018-06-21T22:37:48.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2017-10-01T00:25:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\CuttingBoard.jpg">
+      <PackagePath>CuttingBoard.jpg</PackagePath>
+      <Modified>2018-05-18T13:12:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\EmptyBoardSmall.jpeg">
+      <PackagePath>EmptyBoardSmall.jpeg</PackagePath>
+      <Modified>2018-06-12T13:47:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\foodBackground.jpeg">
+      <PackagePath>foodBackground.jpeg</PackagePath>
+      <Modified>2018-05-18T13:12:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\ic_launcher.png">
+      <PackagePath>ic_launcher.png</PackagePath>
+      <Modified>2018-07-03T11:41:13.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-08-15T20:55:54.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\RecipeFinder.UWP.dll">
+      <PackagePath>RecipeFinder.UWP.dll</PackagePath>
+      <Modified>2018-08-15T20:57:03.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\RecipeFinder.UWP.exe">
+      <PackagePath>RecipeFinder.UWP.exe</PackagePath>
+      <Modified>2018-08-15T20:57:04.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\RecipeFinder.UWP.pdb">
+      <PackagePath>RecipeFinder.UWP.pdb</PackagePath>
+      <Modified>2018-08-15T20:57:04.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-15T20:55:56.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\ilc\SelectIngredientsFoodBoard.jpeg">
+      <PackagePath>SelectIngredientsFoodBoard.jpeg</PackagePath>
+      <Modified>2018-05-18T13:12:46.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Mathew\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Mathew\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Mathew\.nuget\packages\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Mathew\.nuget\packages\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Mathew\.nuget\packages\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Mathew\.nuget\packages\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Mathew\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

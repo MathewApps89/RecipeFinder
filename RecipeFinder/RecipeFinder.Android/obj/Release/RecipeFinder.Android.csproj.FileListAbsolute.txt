@@ -1,0 +1,226 @@
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.Android.dll
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.Android.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.dll
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.csproj.CopyComplete
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.dll
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\xamicon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\xamicon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\xamicon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\xamicon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\values\styles.xml
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\emptyboardsmall.jpeg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\backarrow6.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\foodbackgroundsplash.jpg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\foodbackgroundlogored.jpg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\logored1_375by375.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\foodbackgroundsplash.jpg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\foodbackgroundlogored.jpg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\foodbackgroundsplash.jpg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\foodbackgroundlogored.jpg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\foodbackgroundlogored.jpg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\backarrow6.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\backarrow6.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\backarrow6.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\emptyboardsmall.jpeg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\emptyboardsmall.jpeg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\emptyboardsmall.jpeg
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\logored1_375by375.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\logored1_375by375.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\logored1_375by375.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\icon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\R.cs.flag
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\R.txt
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\uploadflags.txt
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\com.companyname.RecipeFinder.apk
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\com.companyname.RecipeFinder-Signed.apk
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\bin\com.companyname.RecipeFinder.apk
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Microsoft.CSharp.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Mono.Android.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\mscorlib.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Core.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Net.Http.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Xml.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Xml.Linq.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.IO.Compression.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Numerics.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Data.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Transactions.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.IO.Compression.FileSystem.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Web.Services.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Mono.Security.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Microsoft.CSharp.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\mscorlib.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\RecipeFinder.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Core.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Xml.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Numerics.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Data.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Transactions.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Web.Services.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\RecipeFinder.Android.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.Android.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\RecipeFinder.Android.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Microsoft.CSharp.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\mscorlib.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\RecipeFinder.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Core.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Net.Http.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Numerics.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Xml.Linq.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Xml.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.Android.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.Android.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\com.companyname.RecipeFinder.apk
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\com.companyname.RecipeFinder-Signed.apk
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.csprojAssemblyReference.cache
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.csproj.CoreCompileInputs.cache
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.csproj.CopyComplete
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\RecipeFinder.Android.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\bin\com.companyname.RecipeFinder.apk
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\xamicon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\xamicon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\xamicon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\xamicon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\layout\tabbar.xml
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\layout\toolbar.xml
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\values\styles.xml
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\emptyboardsmall.jpeg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\backarrow6.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\foodbackgroundsplash.jpg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\foodbackgroundlogored.jpg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\logored1_375by375.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\foodbackgroundsplash.jpg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\foodbackgroundlogored.jpg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\foodbackgroundsplash.jpg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\foodbackgroundlogored.jpg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\foodbackgroundlogored.jpg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\backarrow6.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\backarrow6.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\backarrow6.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\emptyboardsmall.jpeg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\emptyboardsmall.jpeg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\emptyboardsmall.jpeg
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\logored1_375by375.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\logored1_375by375.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\logored1_375by375.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable\icon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-hdpi\icon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xhdpi\icon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\res\drawable-xxhdpi\icon.png
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\R.cs.flag
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\R.txt
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\uploadflags.txt
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Microsoft.CSharp.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Mono.Android.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Mono.Security.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\mscorlib.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.ComponentModel.Composition.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Core.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Data.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.IO.Compression.FileSystem.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.IO.Compression.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Net.Http.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Numerics.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Runtime.Serialization.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.ServiceModel.Internals.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Transactions.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Web.Services.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Xml.Linq.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\System.Xml.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\FormsViewGroup.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\RecipeFinder.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Microsoft.CSharp.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Mono.Android.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\Mono.Security.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\mscorlib.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\RecipeFinder.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Core.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Net.Http.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Numerics.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Runtime.Serialization.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Xml.Linq.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\android\assets\System.Xml.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\RecipeFinder.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Microsoft.CSharp.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Mono.Android.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Mono.Security.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\mscorlib.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\RecipeFinder.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Core.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Data.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.IO.Compression.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Net.Http.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Numerics.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Runtime.Serialization.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Transactions.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Web.Services.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Xml.Linq.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\System.Xml.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\bin\Release\RecipeFinder.Android.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\RecipeFinder.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb

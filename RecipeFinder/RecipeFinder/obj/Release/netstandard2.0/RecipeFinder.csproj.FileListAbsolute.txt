@@ -1,0 +1,35 @@
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\RecipeFinder.deps.json
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\RecipeFinder.dll
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\RecipeFinder.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Xamarin.iOS.dll
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Xamarin.iOS.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Xamarin.iOS.xml
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.App.xaml.g.cs
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.View.AddIngredientsPage.xaml.g.cs
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.View.RecipePage.xaml.g.cs
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.csproj.CopyComplete
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.dll
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.pdb
+C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.csprojAssemblyReference.cache
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\RecipeFinder.deps.json
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\RecipeFinder.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\RecipeFinder.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Xamarin.iOS.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Mono.Security.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Xamarin.iOS.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Xamarin.iOS.xml
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\bin\Release\netstandard2.0\Mono.Security.pdb
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.csprojAssemblyReference.cache
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.csproj.CoreCompileInputs.cache
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.App.xaml.g.cs
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.View.AddIngredientsPage.xaml.g.cs
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.View.RecipePage.xaml.g.cs
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.AssemblyInfoInputs.cache
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.AssemblyInfo.cs
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.csproj.CopyComplete
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.dll
+D:\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder\obj\Release\netstandard2.0\RecipeFinder.pdb

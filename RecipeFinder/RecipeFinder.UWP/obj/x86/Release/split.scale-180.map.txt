@@ -1,0 +1,13 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\split.scale-180.pri"			"resources.pri"
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\PackageLayout\Assets\widelogo.scale-180.png"			"Assets\widelogo.scale-180.png"
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\PackageLayout\Assets\storelogo.scale-180.png"			"Assets\storelogo.scale-180.png"
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\PackageLayout\Assets\Square70x70Logo.scale-180.png"			"Assets\Square70x70Logo.scale-180.png"
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\PackageLayout\Assets\Square310x310Logo.scale-180.png"			"Assets\Square310x310Logo.scale-180.png"
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\PackageLayout\Assets\smalllogo.scale-180.png"			"Assets\smalllogo.scale-180.png"
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\PackageLayout\Assets\logo.scale-180.png"			"Assets\logo.scale-180.png"
+"C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\obj\x86\Release\PackageLayout\Assets\BadgeLogo.scale-180.png"			"Assets\BadgeLogo.scale-180.png"

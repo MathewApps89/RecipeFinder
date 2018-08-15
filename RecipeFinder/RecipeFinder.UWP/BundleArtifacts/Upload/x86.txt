@@ -1,0 +1,2 @@
+MainPackage=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\Upload\RecipeFinder.UWP_1.1.10.0_x86.appx
+SymbolPackage=C:\Users\mathe\Desktop\Recipe Project\RecipeFinder V2.2\RecipeFinder\RecipeFinder\RecipeFinder.UWP\bin\x86\Release\Upload\RecipeFinder.UWP_1.1.10.0\RecipeFinder.UWP_1.1.10.0_x86.appxsym
